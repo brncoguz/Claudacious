@@ -1,0 +1,2 @@
+anthropic  # SDK for interacting with Anthropic's Claude API
+# unittest # for testing
