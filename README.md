@@ -1,4 +1,4 @@
-# Simple Claude Agent
+# Claudacious - Simple Claude Agent
 
 This project is a Python-based chatbot that leverages Anthropic’s Claude API to simulate a customer support assistant for an online retailer, Acme Co. The chatbot can interact with users to:
 - Look up user accounts by email, phone, or username.
