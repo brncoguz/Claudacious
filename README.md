@@ -14,9 +14,9 @@ Features:
 
 Installation:
 - Clone the project:
-  - `git clone https://github.com/your-repo/simple-claude-agent.git`
+  - `git clone https://github.com/brncoguz/Claudacious.git`
 - Install the requirements:
-  - `cd simple-claude-agent`
+  - `cd Claudacious`
   - `pip install -r requirements.txt`
 - Set your Anthropic API key:
   - `export ANTHROPIC_API_KEY=your_api_key_here`
